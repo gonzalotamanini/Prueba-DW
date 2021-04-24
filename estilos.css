@@ -15,3 +15,7 @@ body {
     height: 380px;
     width: auto;
 }
+
+tr {
+    border: black 1px dashed;
+}
